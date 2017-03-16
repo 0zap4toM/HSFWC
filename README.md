@@ -1,6 +1,6 @@
 # HSFWC
 Https form weak check!
-##VPN/Domain Account WeakPasswd Check
+#VPN/Domain Account WeakPasswd Check
 
 #Description:
 This script is used to check weak_password for https post check!
