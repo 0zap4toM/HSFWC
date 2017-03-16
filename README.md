@@ -7,6 +7,7 @@ Https form weak check!
 This script is used to check weak_password for https post check!
 
 #Idea:
+
 (1)Create Weak_password Dictortry which is
 密码字典满足一下四点要求，因为域账号默认需满足一定密码强度。
 *至少包含一位大写字母
@@ -19,6 +20,7 @@ Cpass.py可以生成满足以上需求的密码字典，用户还可自行定义
 (2)Use python moudle pycurl to send https request and you can check respnosecode to confirm which one is the answer you what.
 
 #Using:
+
 first:生成一个账户列表，规格为：名字每个字的首字母大写，其他字母小写。
 second:讲namelist.txt放到当前目录，然后使用python brute.py。
 
